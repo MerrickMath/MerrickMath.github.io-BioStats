@@ -1,18 +1,7 @@
-
-Welcome to Understanding Statistics. Through this course your analytial skills will be put to the test. Do you think you have what it takes?  
-
-<p align="center">
-<div class="tenor-gif-embed" data-postid="13380207" data-share-method="host" data-aspect-ratio="2.4" data-width="100%"><a href="https://tenor.com/view/star-wars-anakin-this-is-where-the-fun-begins-gif-13380207">Star Wars Anakin GIF</a>from <a href="https://tenor.com/search/star+wars-gifs">Star Wars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
-
-In this class we will be exploring real world data, creating reports, presentations, and more. 
-
 For the first class you may attempt any of the following activites: 
 <p>
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-UnderstandingStatistics/challenge1.html"> The Road Mordor </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-UnderstandingStatistics/challenge2.html"> Exploratory Data Analysis </a> </li>
       </ul>
 </p>
 
@@ -23,7 +12,6 @@ Many of the challenges will require the use of R Studio. If you want to download
 What Data are you interested in exploring? LET ME KNOW! 
 
 ---
-
 
 **Datasets:** Some interesting datasets can be found at  <a href="https://drive.google.com/drive/folders/1lQuOh4jgyZ4GioinfvCYvqRxbOgDn6Be?usp=sharing"> here </a>
 
