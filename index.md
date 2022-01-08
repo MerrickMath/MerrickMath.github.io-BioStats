@@ -4,7 +4,7 @@ The course is composed of several tutorials/activites that you will do over the 
 
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-UnderstandingStatistics/challenge1.html"> Week 1 </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-BioStats/Week1.html"> Week 1 </a> </li>
       </ul>
 </p>
 
