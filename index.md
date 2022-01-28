@@ -1,7 +1,5 @@
 Welcome to Applied Statistics for Biological Sciences. Ms. Fatima and I developed this course to give you a introduction to the statistical anlysis that is used in the AP Biology curriculum and scientific research. In the course you will learn how to visualize and analyze various types of data. Many of the concepts in this class have strong ties to AP Statistics and AP Biology. 
 
-This course will require the use of R and R Studio. To download this on your home computer you must first download base R <a href="https://www.r-project.org"> here </a> and then use <a href="https://rstudio.com/products/rstudio/download/"> this link </a> to download R Stuido. 
-
 The course is composed of several tutorials/activites that you will do over the 11 week term. 
 
 <p>
